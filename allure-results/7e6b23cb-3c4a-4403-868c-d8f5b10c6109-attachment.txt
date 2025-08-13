@@ -1,0 +1,13 @@
+Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 13879,
+  [Symbol(trigger_async_id_symbol)]: 13470,
+  [Symbol(kResourceStore)]: undefined
+}
+Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 13907,
+  [Symbol(trigger_async_id_symbol)]: 13470,
+  [Symbol(kResourceStore)]: undefined
+}
+[ 'ZARA COAT 3', 'ADIDAS ORIGINAL', 'IPHONE 13 PRO' ]
